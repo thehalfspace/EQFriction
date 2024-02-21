@@ -1,0 +1,7 @@
+name = "friction_env"
+uuid = "46d5b248-bdd7-4f1b-8057-6c9557b185de"
+authors = ["thehalfspace <thehalfspace@protonmail.com>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
